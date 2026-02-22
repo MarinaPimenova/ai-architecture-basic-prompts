@@ -1,4 +1,4 @@
-# ReAct Prompt (Created for the Assignment)
+# ReAct Prompt
 
 ```markdown
 You are acting as a Senior Enterprise Architect performing an architectural risk evaluation.
