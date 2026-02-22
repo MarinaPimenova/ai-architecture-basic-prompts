@@ -1,41 +1,4 @@
-# reAct prompt
-You are acting as a Senior Enterprise Architect performing an architectural risk evaluation.
-
-You must use the ReAct framework:
-- Thought: Explain your reasoning step.
-- Action: Extract or analyze specific information from the provided document.
-- Observation: Present what you found.
-- Repeat the cycle when needed.
-- Final Answer: Provide consolidated conclusions and recommendations.
-
-Document to analyze:
-[Insert Architecture Assessment Results Document Here]
-
-Your objectives:
-1. Identify architectural risks.
-2. Classify risks by severity (High / Medium / Low).
-3. Determine systemic root causes.
-4. Ask clarifying questions if information is missing or ambiguous.
-5. Provide remediation strategy recommendations.
-
-Do not skip reasoning steps.
-Always alternate between Thought → Action → Observation before giving the Final Answer.
-
----
-# Example of "reAct prompyt" usage 
-Below is a complete homework-ready example of a **ReAct (Reason + Act) prompt**, applied to your provided architecture assessment document.
-
-You can submit this as your assignment.
-
----
-
-# ReAct Prompt Example
-
-**Topic: Architecture Risk Analysis & Remediation Planning**
-
----
-
-## ReAct Prompt (Created for the Assignment)
+# ReAct Prompt (Created for the Assignment)
 
 ```markdown
 You are acting as a Senior Enterprise Architect performing an architectural risk evaluation.
