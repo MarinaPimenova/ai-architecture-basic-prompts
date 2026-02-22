@@ -1,6 +1,6 @@
 # Prompt chain clarification
 
-My submission was not a raw session dump but a structured example of sequential prompt chaining combined with zero-shot prompting and elements of the CREATE framework.
+The [prompt.md](prompt.md) a structured example of sequential prompt chaining combined with zero-shot prompting and elements of the CREATE framework.
 
 The task was intentionally decomposed into three logically connected prompts:
 
